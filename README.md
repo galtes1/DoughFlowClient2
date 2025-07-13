@@ -32,7 +32,7 @@ React-based frontend application for managing personal and business finances in 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/galtes1/DoughFlowClient.git
+git clone https://github.com/galtes1/DoughFlowClient2.git
 cd DoughFlowClient
 ```
 
